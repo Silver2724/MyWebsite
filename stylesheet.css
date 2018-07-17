@@ -102,7 +102,7 @@ p {
 
 #catpic {
   transform: rotate(90deg);
-  
+    text-align: right;
 }
 
 body {
